@@ -1,0 +1,7 @@
+#(C) Copyright Joseph Rohani, 2022
+
+import sys, os, subprocess, time, threading
+
+def printnln(text):
+    print(f"{text}", end="")
+
